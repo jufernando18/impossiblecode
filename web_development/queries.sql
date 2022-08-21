@@ -1,0 +1,1 @@
+select * from user_info where username = '' and password_hash = '' and token_secret = ''
